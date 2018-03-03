@@ -1,0 +1,6 @@
+---
+# https://stripe.com/docs/testing
+stripe:
+  valid_visa: 4242424242424242
+  valid_mastercard: 5555555555554444
+  invalid_address_fail: 4000000000000028
